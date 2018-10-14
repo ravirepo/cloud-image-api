@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+$brand1: #1F2D3D;
+$brand2: #FFFFFF;
+$sans-serif-stack: Helvetica, Arial, sans-serif;
+
+* {
+  font-family: $sans-serif-stack;
+}
+
+body {
+  background-color: $brand1;
+  margin:0px;
+}

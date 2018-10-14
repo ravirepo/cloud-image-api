@@ -1,0 +1,22 @@
+@import '../../_setup';
+
+.imagemainrow {
+  display: table-row;
+}
+
+.imagemain {
+  display: table;
+  width: 880px;
+}
+
+.webcam {
+  display: table-cell;
+  width: 420px;
+  max-height: 400px
+}
+
+.image {
+	display: table-cell;
+    width: 420px;
+	max-height: 400px
+}
