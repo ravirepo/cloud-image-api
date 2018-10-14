@@ -159,6 +159,7 @@ class CarImage extends React.Component {
   clean(data) {
 	data = data.replace(/GARDEN/gi, '');
 	data = data.replace(/NEW YORK/gi, '');
+	data = data.replace(/NEWYORK/gi, '');
 	data = data.replace(/STATE/gi, '');
 	data = data.replace(/PENNSYLVANIA/gi, '');
 	data = data.replace(/VISITPA/gi, '');
