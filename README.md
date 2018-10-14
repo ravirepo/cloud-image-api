@@ -1,7 +1,7 @@
 ## License plate detection using cloud apis
 
 #### What does this app do?
-Check the slide here: 
+Check the slide here: Search slideshare for "license-plate-detection-using-cloud-apis"
 
 #### What is the stack?
 
